@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+p {
+  background-color: #ffb1b1;
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+
+#second {
+  color: #084eff;
+  font-size: 36px;
+}
+
+#third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #b8ffb8;
+  font-size: 24px;
+  font-weight: bold;
+}
